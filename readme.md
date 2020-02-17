@@ -1,5 +1,5 @@
-matlab-palenight
-==============
+Matlab palenight colour theme
+=============================
 
 Palenight colour theme applied to Matlab. Losely based on the excellent Vim theme here: https://github.com/drewtempelmeyer/palenight.vim
 
